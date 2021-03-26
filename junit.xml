@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="11" failures="0" time="2.822">
+  <testsuite name="page renders correctly" errors="0" failures="0" skipped="0" timestamp="2021-03-22T14:41:24" time="1.936" tests="11">
+    <testcase classname="page renders correctly initial UI is rendered and contains client-autocomplete, client-selection, agent-autocomplete, agent-selection" name="page renders correctly initial UI is rendered and contains client-autocomplete, client-selection, agent-autocomplete, agent-selection" time="0.052">
+    </testcase>
+    <testcase classname="basic agent autocomplete works agent autocomplete is displayed" name="basic agent autocomplete works agent autocomplete is displayed" time="0.053">
+    </testcase>
+    <testcase classname="basic agent autocomplete works agent suggestions are filtered when text is entered" name="basic agent autocomplete works agent suggestions are filtered when text is entered" time="0.127">
+    </testcase>
+    <testcase classname="basic agent autocomplete works filtering is case insensitive" name="basic agent autocomplete works filtering is case insensitive" time="0.041">
+    </testcase>
+    <testcase classname="basic agent autocomplete works results are ordered alphabetically by first name" name="basic agent autocomplete works results are ordered alphabetically by first name" time="0.05">
+    </testcase>
+    <testcase classname="basic agent autocomplete works selecting an element will fill the input and filter the suggestions" name="basic agent autocomplete works selecting an element will fill the input and filter the suggestions" time="0.06">
+    </testcase>
+    <testcase classname="basic agent autocomplete works selecting an element will fill the input with first name and last name" name="basic agent autocomplete works selecting an element will fill the input with first name and last name" time="0.04">
+    </testcase>
+    <testcase classname="basic agent autocomplete works selecting an element will fill the element with data-testid=&apos;agent-selection&apos;" name="basic agent autocomplete works selecting an element will fill the element with data-testid=&apos;agent-selection&apos;" time="0.039">
+    </testcase>
+    <testcase classname="advance agent autocomplete works last name filtering works" name="advance agent autocomplete works last name filtering works" time="0.042">
+    </testcase>
+    <testcase classname="advance agent autocomplete works there is no duplicates" name="advance agent autocomplete works there is no duplicates" time="0.041">
+    </testcase>
+    <testcase classname="client and agent filtering and selection works fine selecting an agent and a client works" name="client and agent filtering and selection works fine selecting an agent and a client works" time="0.056">
+    </testcase>
+  </testsuite>
+</testsuites>
