@@ -1,5 +1,8 @@
 # React: Selector
 
+<img width="1129" alt="Screenshot 2021-03-26 at 10 06 12" src="https://user-images.githubusercontent.com/6533163/112601361-09867500-8e1b-11eb-8e9b-ba817a51bde8.png">
+
+
 ## Environment
 
 - React Version: 16.13.1
